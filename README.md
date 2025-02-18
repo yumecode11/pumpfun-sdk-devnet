@@ -1,4 +1,6 @@
-# PumpFunSDK README
+# PumpFunSDK README Mainnet + Devnet Surpport
+
+You can test your pumpfun tool on devnet. if you wanna publish it as product , you only have to change RPC
 
 ## Important
 
